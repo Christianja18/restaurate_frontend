@@ -1,0 +1,57 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+.npm/
+.yarn/
+
+# Build output
+dist/
+dist-ssr/
+build/
+.vite/
+.vite-inspect/
+
+# Environment files
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+vite-dev*.log
+
+# Tests and coverage
+coverage/
+playwright-report/
+test-results/
+
+# Cache and temporary files
+.cache/
+.eslintcache
+.stylelintcache
+.turbo/
+.tmp/
+tmp/
+temp/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
