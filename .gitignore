@@ -5,7 +5,6 @@ node_modules/
 .yarn/
 
 # Build output
-dist/
 dist-ssr/
 build/
 .vite/

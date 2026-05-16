@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720" role="img" aria-labelledby="title desc">
+  <title id="title">Don Cangrejo</title>
+  <desc id="desc">Logo de Don Cangrejo Restaurant Marino</desc>
+  <rect width="720" height="720" rx="72" fill="#111111"/>
+  <g transform="translate(360 160)" fill="#9b9a95">
+    <ellipse cx="-96" cy="-4" rx="46" ry="16" transform="rotate(-28 -96 -4)"/>
+    <ellipse cx="96" cy="-4" rx="46" ry="16" transform="rotate(28 96 -4)"/>
+    <ellipse cx="0" cy="58" rx="92" ry="56"/>
+    <path d="M-105 51c-46 4-71 29-70 65 34-23 69-28 107-15-16-17-27-32-37-50Z"/>
+    <path d="M105 51c46 4 71 29 70 65-34-23-69-28-107-15 16-17 27-32 37-50Z"/>
+    <path d="M-89 102c-41 10-60 34-57 68 26-24 57-35 95-29-15-13-27-26-38-39Z"/>
+    <path d="M89 102c41 10 60 34 57 68-26-24-57-35-95-29 15-13 27-26 38-39Z"/>
+  </g>
+  <text x="360" y="362" text-anchor="middle" font-family="Georgia, serif" font-size="112" font-weight="700" letter-spacing="12">
+    <tspan fill="#ef2f2b">D</tspan><tspan fill="#ffffff">ON</tspan>
+  </text>
+  <text x="360" y="474" text-anchor="middle" font-family="Georgia, serif" font-size="96" font-weight="700" letter-spacing="8">
+    <tspan fill="#ef2f2b">C</tspan><tspan fill="#ffffff">ANGREJO</tspan>
+  </text>
+  <text x="360" y="548" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" letter-spacing="18" fill="#ffffff">
+    RESTAURANT MARINO
+  </text>
+</svg>
